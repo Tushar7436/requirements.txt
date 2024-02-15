@@ -1,4 +1,5 @@
-nltk==3.9.3
+nltk==3.2.3
 PyPDF2==1.26.0
+transformers ==4.11.3
+torch ==1.10.0
 tabula-py==2.2.0
-fitz==0.0.1.dev2
